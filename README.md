@@ -30,4 +30,3 @@ python3 ./exploit3.py ls
 python exploit3.py dir
 ```
 
-Trigger a CICD run
